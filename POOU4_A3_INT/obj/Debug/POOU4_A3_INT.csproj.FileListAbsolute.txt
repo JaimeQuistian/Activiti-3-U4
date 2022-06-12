@@ -1,0 +1,7 @@
+C:\Users\Hp-\Desktop\POOU4_A3_INT\POOU4_A3_INT\bin\Debug\POOU4_A3_INT.exe.config
+C:\Users\Hp-\Desktop\POOU4_A3_INT\POOU4_A3_INT\bin\Debug\POOU4_A3_INT.exe
+C:\Users\Hp-\Desktop\POOU4_A3_INT\POOU4_A3_INT\bin\Debug\POOU4_A3_INT.pdb
+C:\Users\Hp-\Desktop\POOU4_A3_INT\POOU4_A3_INT\obj\Debug\POOU4_A3_INT.csproj.AssemblyReference.cache
+C:\Users\Hp-\Desktop\POOU4_A3_INT\POOU4_A3_INT\obj\Debug\POOU4_A3_INT.csproj.CoreCompileInputs.cache
+C:\Users\Hp-\Desktop\POOU4_A3_INT\POOU4_A3_INT\obj\Debug\POOU4_A3_INT.exe
+C:\Users\Hp-\Desktop\POOU4_A3_INT\POOU4_A3_INT\obj\Debug\POOU4_A3_INT.pdb
